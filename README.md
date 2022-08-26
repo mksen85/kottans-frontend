@@ -25,3 +25,9 @@
       <img src="./task_html_css_intro/Learn CSS(Eng).png"/>
       <img src="./task_html_css_intro/Learn HTML(Eng).png"/>
   </div>
+
+  ## Responsive Web Design
+  <div>
+      <img src="./task_responsive_web_design/flaxbox_froggy.png"/>
+      <img src="./task_responsive_web_design/grid_garden.png"/>
+  </div>
